@@ -11,3 +11,14 @@ x:490
 y:448
 w:269
 h:227
+
+back: 
+x:101
+y:882
+w:140
+h:68
+
+ressorts:
+w12 h 6
+patte droite : x 250 y 239
+patte gauche : x169 y 239
