@@ -19,6 +19,6 @@ w:140
 h:68
 
 ressorts:
-w12 h 6
+w12 h 16
 patte droite : x 250 y 239
 patte gauche : x169 y 239
